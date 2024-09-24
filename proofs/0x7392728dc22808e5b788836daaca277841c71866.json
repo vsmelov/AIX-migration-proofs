@@ -1,0 +1,26 @@
+{
+  "wallet": "0x7392728dc22808e5b788836daaca277841c71866",
+  "claimableAmount": "0",
+  "snapshotBalance": "0",
+  "snapshotStakesAmount": "0",
+  "totalOutTransfers": "0",
+  "totalInTransfers": "0",
+  "proof": [
+    "0xd720e7b45a4b62417ae168041bf008da6ba08e0e83071611ec99ae9ebe6ebbbe",
+    "0x5ef8877668e5c893b18500ea5b9b460bcde87b494a83a667ea164c775a6bfa71",
+    "0x8235f953566e1f9d7bcac4c389e29b7e41c2883e417e823117baa8b12ad6ad1c",
+    "0x0886de7949567834056b5b0cf63e6943787932d2d329f088bf6215f332e48e2e",
+    "0xf6add456989ca24cf91d52aeb983712696b6a9da7a9363720e2dee8f74d24a52",
+    "0x3a11d10f69cc3b221ba5d18272711964c37d0aef9d8610105f4e09cc7dc5d3a6",
+    "0xc5e05e653d16ddbeea4099889b7e10988dba8f146c45175af2ac514b14a0dcfe",
+    "0x7a83ae8a0792e31477e17ace587e655665ab2dfd091e2dd759cf8f7e1ed5135b",
+    "0xb0fada32ac33c0b041f1f6b3aff34a9b066c065bdf8d7e9f0daa01c32188c0e8",
+    "0xd1aabb42daa76f997a0d451c31b6510c99f6e34f25be996937ae5a5379e859c1",
+    "0x859a392906f67af23dd7b92811fc86ae6fe376e32576a25e75df2ef71dff3fae",
+    "0x5bca1caa5c8fcf1c29d396d96e0d701ec5efce56da560014a078dae6ba9983bc",
+    "0xf195bf1b86e68a6e4c8f7c92d32d2fe9af14a6d0bcf3883558c56ae82a18cf09"
+  ],
+  "note": "Wallet: 0x7392728dc22808e5b788836daaca277841c71866 is blacklisted, claimable amount set to 0",
+  "manualVerificationRequired": true,
+  "manualVerificationExplain": "Your wallet is connected with misbehaving address. Write to technical support for manual verification. Do not worry, migration will be active until we process all requests."
+}

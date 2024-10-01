@@ -1,26 +1,26 @@
 {
   "wallet": "0x4ea91f5f859c78d4759ecbadd298ef545af23385",
-  "claimableAmount": "141246267054698853826560",
+  "claimableAmount": "0",
   "snapshotBalance": "141246267054698853826560",
   "snapshotStakesAmount": "0",
   "totalOutTransfers": "0",
   "totalInTransfers": "0",
   "proof": [
-    "0xca49df67a2eba8c5a87e127d810c6ff6ec5e80fef349509442f4e29d8b9d94c7",
-    "0xe118d55673c5718d67e51abd3edbe25ec70c997e547f06c6880b7230849f0966",
-    "0xad324b7c8383b789f6ed04967e6d721ea42d9f4409bda371a0f75169ac277f3b",
-    "0xe03a5f942d014dfec2039a104d25747d3d8e3242d84e02a314ea5a01a6e1ea3a",
-    "0x410cef9dfac7ee1a8d9b024212fdb94e31d2d8716021321281981e7a41f51e5d",
-    "0xd05324a1711fc94140076757d0e875c4d264280b22fad1ad4e5795572b14ab7a",
-    "0xead1187f12dd6461a799c4643464157e0aaf0e10630214611d02940746828d6a",
-    "0xb94c9ec5dcda772a45ce680a1435a9b86175ec39ef7b5b800b568415869ed8dc",
-    "0x88e16bea0f4ce59c52f09c2bc3efe27e1c5b730626403a27d89b999d39372519",
-    "0xc0a0fadbf543793726be36badd2a8afe1a7af1d9a51594d9935d9480206d770a",
-    "0x027d8ddefa9c90a1d7a0022d64922dbae4aa466d6a997858cba2c6c047cc7886",
-    "0xeffd0047a8cb6dcac76dda2a5546621353bf60cb957e750915ca124c96ca2c7c",
-    "0xb52018f5c5dfb2b975b2ce491ba0a09694d22a127e598cc482f71e8fae7cdc84"
+    "0xf2879feabac8bd5fe16bc58fda03e3404ea47d5b4cf418fd6be338227b7fece9",
+    "0xeaaaec692afd01ddac1af89c14134c1f47c3a6696db3ef148ac69f164be9ee1e",
+    "0xac349c11ad17cca956669b5d4bb8f02ffc821fbfeaf6fc78089180e86c08feb9",
+    "0x245f1401284efe56055daf924e3b9fef39bea0341839012c1aa7fea0a3c047a6",
+    "0x6ba1f885ef2664bdb93392647b6f52fda8fd6447840ef1fe75d025a8313da02b",
+    "0xcf3aaded50f109f5fd99aeee1b19829db1b582d9d9732e9945c46e56118ca67a",
+    "0x01d6225aaae58fca6efe143d4074bce3e50fac8a0b875874b7745c5b58e85e55",
+    "0xa62cdcfc38c73bfe20f700aae599d6de6683cb1f3df1e2e8ef56374fbbba77a0",
+    "0xc69e930a9efe6c8f990de8ec7f704323b8ca2a022d13cfd8bffeff71dd8dcf4e",
+    "0xc1f35b83c800569291f7690b2c561d149418025a57e689852ca915cb4ba0e618",
+    "0x8fa0ea05770189c0e5e9f51afe0dcd551655e2a28aebd3c05fcbf6c3ddd0dda8",
+    "0x45adb340e844b48ba9252e0626201238679bc092f95090c8119c201c21cfd93e",
+    "0xed51f0c609616832b328100a339d80321a58c734b751371ed31d29b36222e261"
   ],
-  "note": "Wallet: 0x4ea91f5f859c78d4759ecbadd298ef545af23385, Initial Balance: 141246267054698853826560, Staked Balance: 0, Total Out Transfers: 0, Total In Transfers: 0, Final Claimable Amount: 141246267054698853826560",
-  "manualVerificationRequired": false,
-  "manualVerificationExplain": ""
+  "note": "Go to technical support for manual verification.",
+  "manualVerificationRequired": true,
+  "manualVerificationExplain": "Go to technical support for manual verification."
 }

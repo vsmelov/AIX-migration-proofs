@@ -8,20 +8,20 @@
   "proof": [
     "0x219002d7e356e4bf735973c8aec8c0e305b7ca0ffbc1f628f927971dbabb78be",
     "0x00a1b016b892c5f2388b01bff1ef50f29f4264268bb7622eadd37204a784c5ef",
-    "0x4e3232df0a20127e440eeee7bec0316c4893ef4d02457a1e95cc07f5da73e63f",
-    "0x1f0bf618001e5d7de2b1d4b748ef7ead42470daffe812113da88850a44169b09",
-    "0xe8db79e95a5f001577f93f822c26449567ef649fce4808bafe5c32d7c5025444",
-    "0x32814048b637e052e17614933a74458f7e6272f52c44e4371980303df3ccccba",
-    "0x3ad5845c06dd8a2a0149c7a46478eebf347db3cb475faba0487126023744a038",
-    "0xe1c774ae67161ba7309633cc31884d66390b177f839438d02ff4feaa1554ac84",
-    "0xf617016be36330951d3dc9b9082f4d1ccdb4f8cc837589b01688c591dba421ca",
-    "0x52e31ac74d587a1cec9da76c6547a9a5793e76ad2085bd8fcced883131f5aee5",
-    "0x01bf886e1e5612186e71d152356cb49a07ac358fcf20807af1f2241fcd1b28bc",
-    "0x6b1a717a4c80ec8beb8dc4e7f4cb91d51b6144ed1ad13c92c3f88db5c61206a3",
-    "0x88e86b32c3936369bf75dc6ff13e0e854db8f8758ac0b2cc86d4e57c8004cf6c",
-    "0xac59e37bc9eb239210e2710c1fdd9c11e2107b03ac9c266a132a0ea025bd316c"
+    "0xac9fe9cb46d6b2b56ad22235afecdf6332b70206993b09bce11cc63f4fda60a5",
+    "0x34e4773fdc17d9a8e1f37f0b20edd51309846601845fc76410fa1e6745237124",
+    "0x75140c65e152f4d3332995379e77480a0da841394585ae9bf8f05deefb841c65",
+    "0x55f949fe7a06972274750fba7b20d3e2c012b10c8eb9a3e6c0d2d723a4416b8f",
+    "0xfd166207bc2a1e2cf8ca711e83eacd79d045cf32d5aca1b5b5f6d84964a2c599",
+    "0x46847d42c338b980f91e0d1368aa0b983e61523cf9016b84646864afe82e2099",
+    "0x38fec8f047218d50d1b4aa8e2ceb85a87f86ec11281e02c042fc3872202de8e9",
+    "0x0ba0407100f655e5740ad45e1c9864838b36fa34d0a4675cd3d63f5e1333672a",
+    "0x86a564eda1ab6d1b486d79520dafb716863da0284c1a99a31528749da1d069c6",
+    "0xa9708111e35211515974c139fd208a1b6e322f22fff71567c4499fb9225604ed",
+    "0xd1ec02498fbf4a26850ff733463cc8701f7896307f0bbfd3b06f0469d582bac4",
+    "0x835477c74870bc9e7485e3e941d51d5161d059d1ea869b5b372e9b7452c6332b"
   ],
-  "note": "Wallet: 0x9b9b4873a18ef235569a562a9797865e5f1a482c is blacklisted, claimable amount set to 0",
+  "note": "Wallet: 0x9b9b4873a18ef235569a562a9797865e5f1a482c is blacklisted, claimable amount set to 0. Your wallet is connected with misbehaving address. Write to technical support for manual verification. Do not worry, migration will be active until we process all requests.",
   "manualVerificationRequired": true,
-  "manualVerificationExplain": "Your wallet is connected with misbehaving address. Write to technical support for manual verification. Do not worry, migration will be active until we process all requests."
+  "manualVerificationExplain": "Wallet: 0x9b9b4873a18ef235569a562a9797865e5f1a482c is blacklisted, claimable amount set to 0. Your wallet is connected with misbehaving address. Write to technical support for manual verification. Do not worry, migration will be active until we process all requests."
 }

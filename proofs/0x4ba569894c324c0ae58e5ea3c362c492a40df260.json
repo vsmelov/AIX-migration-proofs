@@ -6,21 +6,21 @@
   "totalOutTransfers": "0",
   "totalInTransfers": "0",
   "proof": [
-    "0xd548276364cf6cf7262e01166741b8cd50bbfa79fcd61b95687384cc9f1daafa",
-    "0x6f5c81a16653d9999aa6305ae9a90f6cd2cb4597949c2eb978de022f867b6cb9",
-    "0xa3abbb25f3596b7617c651e878ec5bdc90f2d39847df5f4e436c5a68c68d59cc",
-    "0x1f1b54914f893f82de1f84ea488b93a9602d9be3cc6d744e657712bbedc6f6b5",
-    "0x0e3fee29e3959bb302b9fca1ee0710ef5cd4540023ed9366e3f7d9f8cff98edd",
-    "0x471a4d1a50407e8178c6cf5e06b12190c69ff298d87ea75fe87caa3d0fb9ff1a",
-    "0xfec5424f22231f7d105055cdba8550b7bf5434bb30ce519e17d35c3132acddbb",
-    "0xf24dfee7cb5a38be5a7c733842f6bc872cabe6932b35b29f32c6373d0c8ae4af",
-    "0xbb6f9f632b483bd2ad18a58545b60c8aae64575af1fc8165e635f6e67b7f12e5",
-    "0xbd5763ade51d3a3660ba69970b1b943b7371c50a1084db85b24f5a8c7d0f07db",
-    "0x6ebdbfac469bcefc3b0fc1d208585bf53298d61bdc49a518204fe0b345547e3c",
-    "0xfcaf180bc6cb3928edf635ac91ca929a34cc98e2b4144f6f17b668ce1cfd7c52",
-    "0xccd6cea8a5f565886cc71d321e863a30f1dafaef357cc176390fc7918a583f11"
+    "0xd544b4a83bfeeafe3feba122d9f05f9749c36d28a4c14eceb5b122a031c923ae",
+    "0xdaca75e692e961e20ad1132263ba473fe4da76d10cfd99377c6795533cb57a9b",
+    "0x98bdff1a65dca601cded866d69ebc5d498956998acee2c1f8457c085236f8f95",
+    "0x50dc090e03155971ccfb039a4862561eafca2af45a69ad2e86161f6492048443",
+    "0x020c32511c25ef67600aa686d593d23a0c747315f974eec3a068b1531b868ee8",
+    "0x8e5ce62f2cfae88ee9e44ebd57cdab555621d2c235c92c3ff633f5645a80c7d4",
+    "0x880ba64cbcc05e9aecb2a799f4ccdb86025fa67ede271d854fcb16f8a0ece894",
+    "0x6d79ecbfc53d2c7a544faf1ad7de9dc00cb51315b47d0b8e2fb7b7129d2e5e95",
+    "0x2a6622cf9545c9f18e3d121dbc278fe641a21ba2d2291af54af9604d970d79f1",
+    "0x1c95f68ad45dba48f6f25ce1b6b641a0352d04aa9c3fcfa7e3210be2a7b1e809",
+    "0x6c111f738420e18a9aecb70f3f092bbc71d6d8b44b572a7eff1d30c769467a7a",
+    "0xaabfe37843819119f45be12076699f135fef0a272d86bf8e3a41fe184a3d6e0a",
+    "0x2ff35a937563ec5472557824ec192af1503aae249a11dd42c14e7fd2b0f872eb"
   ],
-  "note": "Wallet: 0x4ba569894c324c0ae58e5ea3c362c492a40df260 is blacklisted, claimable amount set to 0",
+  "note": "Wallet: 0x4ba569894c324c0ae58e5ea3c362c492a40df260 is blacklisted, claimable amount set to 0. Your wallet is connected with misbehaving address. Write to technical support for manual verification. Do not worry, migration will be active until we process all requests.",
   "manualVerificationRequired": true,
-  "manualVerificationExplain": "Your wallet is connected with misbehaving address. Write to technical support for manual verification. Do not worry, migration will be active until we process all requests."
+  "manualVerificationExplain": "Wallet: 0x4ba569894c324c0ae58e5ea3c362c492a40df260 is blacklisted, claimable amount set to 0. Your wallet is connected with misbehaving address. Write to technical support for manual verification. Do not worry, migration will be active until we process all requests."
 }

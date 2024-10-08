@@ -1,0 +1,26 @@
+{
+  "wallet": "0x4992FA0b2b01E7310Fad10AdFf1eAd62Fb06989E",
+  "claimableAmount": "0",
+  "snapshotBalance": "0",
+  "snapshotStakesAmount": "0",
+  "totalOutTransfers": "0",
+  "totalInTransfers": "0",
+  "proof": [
+    "0xc2bfc79059521b86c102c1c5ad97b916820141552abd815357f1a8ee40e7151c",
+    "0xa60148a3676ab88ff6ddebc739041e4b0369279bcf06a44de86ce7af07eba067",
+    "0xcd4188926c05788770e31e3f1b1b1db82797a5ab9edf00c02ab8775f14e0e32c",
+    "0x0f93012a85a49419237a88fb2f0b850e52998927a6941cd3f1f290cc5bd09247",
+    "0xed9b2a34254b981507016f190808fcc781752e899c228fe7355213edb205e744",
+    "0x2f6822152cb66e6b67bf2ad704e6a9dcf085996a24a1378c4bbaf3f85f289622",
+    "0xb87bd4f46e3aa14b4e6f080ffcfb4f88d14ccb5253c0d1b66cbf0b826944a00b",
+    "0xef23f509d65c8777e20b5bb8cc2a41cca26e60ad6d178843b6105c37fd075361",
+    "0x778f8d45ad40c8da5a3ed12423148c72ae7fef27364dc8ad0d240eecae580385",
+    "0xbcd71236a6c9eec7c1e3d1ce9da78064331af601985d862f0e0acacaa3f2157c",
+    "0x1d7fba576aa5d4126b2f813c68b0231bbb76f3aa3e90982ed777ca1a20b114b7",
+    "0xc6351e2482fb4f1a4512fdbbf8ada17767c87554b43e7188967e80603c2f413f",
+    "0x2ff35a937563ec5472557824ec192af1503aae249a11dd42c14e7fd2b0f872eb"
+  ],
+  "note": "Wallet: 0x4992FA0b2b01E7310Fad10AdFf1eAd62Fb06989E is delisted, holder asked to whitelist another wallet.",
+  "manualVerificationRequired": true,
+  "manualVerificationExplain": "Wallet: 0x4992FA0b2b01E7310Fad10AdFf1eAd62Fb06989E is delisted, holder asked to whitelist another wallet."
+}

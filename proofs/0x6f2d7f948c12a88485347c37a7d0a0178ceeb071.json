@@ -1,0 +1,27 @@
+{
+  "wallet": "0x6F2D7f948c12a88485347c37a7d0a0178cEeb071",
+  "claimableAmount": "4630260000000000393216",
+  "snapshotBalance": "4630260000000000393216",
+  "snapshotStakesAmount": "0",
+  "totalOutTransfers": "0",
+  "totalInTransfers": "0",
+  "proof": [
+    "0x07e4d16c9c252cf214725e732f5c4bc33a728236b0703efe10a0e841254d69e0",
+    "0x5a0f5189e44656c91592bce49c1ddcd8cfd64ad0b8a3413bcfbd0528aab5bfdb",
+    "0x2683853f3fa4fcdb06b38c826fb13b25f54407da40ce4c2eee2dd3c073cc9b4b",
+    "0xdb2d2d93a179015804bd933b78ef52d020372c9a95ba49af6d1f7c113fd41eb2",
+    "0x29b236cf6b1303a58ca6e395ae07be4cff79a1797a8880e351ed590a800515f6",
+    "0xf1af9afd3975607ecb62e028ab309a7f8c512001901fcc0364cca98718e0b570",
+    "0x501a19dd4d4caa1b5bf41ee9503f6b06b564537fb099c64c97fa37486fb6be0e",
+    "0xeaabe811ffe3c65f87ac37322eb8efb8f203a11639c1ac26829be254fa7a691b",
+    "0xa1acdbaae7c0b914483abf2b27ebff8aeb2c53b942a21e97ab3a81d7cb4a1f30",
+    "0x9e590aaea624a3f55268feef69b2c4124cef7f4065f5f4e796685cee1005dc7a",
+    "0x9a139a5bb29a779594d3f00b25c2bb74d2e7979de89ec02caca788511a30b3ac",
+    "0x1ae821b4a6e0713d390314565a31c3b4c872973c9937b14ad9d70a32afca8960",
+    "0xa7fd9e52b316ef6d0a3c6d7391819a1d401393a51acb00ae5d7b35eeb3accfe8",
+    "0xdece2bb931fa9dde838fe68daa4d0f850609f493bf023e414ad9a39985f5f236"
+  ],
+  "note": "migration 2024-11-04 04:42",
+  "manualVerificationRequired": false,
+  "manualVerificationExplain": ""
+}
